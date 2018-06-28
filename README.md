@@ -6,11 +6,13 @@ This repo contains the API Endpoints for [Laravel Wave](https://wave.devdojo.com
 
 You'll need to download the free [Insomnia API REST Client](https://insomnia.rest). Once you have downloaded and installed you will need to import the `wav-api-endpoints.json` file from this repo.
 
-To import click on the arrow next to the Insomnia Text on the top left. Click on **Import/Export**
+To import the endpoints you will need to click on the arrow in the upper left and then click **Import/Export**
 
-![](https://i.imgur.com/lqOEIdR.png)
+![](https://i.imgur.com/Eel1lJ8.png)
 
 Then click **Import Data -> From File** and select the `wave-api-endpoints.json`
+
+![](https://i.imgur.com/lqOEIdR.png)
 
 You will now see all the available endpoints that can be accessed.
 
